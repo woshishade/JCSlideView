@@ -1,3 +1,5 @@
 # JCSlideView
 
-学习UIBezierPath时候的弹出view
+利用UIBezierPath路径自定义的一个弹出view
+
+
